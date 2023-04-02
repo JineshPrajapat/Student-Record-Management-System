@@ -1,4 +1,4 @@
-                                       "# Student record management system using file handling" 
+                "# Student record management system using file handling" 
 
 This is a C++ program that creates a menu-driven student record management system using file handling. The program uses a class named "student" to store and manipulate the data of the students.
 
